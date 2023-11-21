@@ -22,7 +22,7 @@ To run the game locally, follow these steps:
 To play the game, simply click any button on your keyboard to begin. The game will display a sequence of colored buttons, which will light up in a specific pattern. Watch and remember the pattern, then repeat it back by clicking the buttons in the correct order. Each time you successfully repeat the pattern, the game will add another button to the sequence. If you make a mistake, the game will display an "Game Over" and you'll need to start over from the beginning.
 
 
-##Technologies :
+##Technologies
 
 The project is built using the following technologies:
 * HTML
